@@ -9,3 +9,7 @@
      5. template connection and default database data show,
      6. static folder connection and show on html file,
      7. media/dinamic connection and image link creation.
+
+
+## 2. second_project:
+     task list:
