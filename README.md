@@ -4,7 +4,7 @@
 ## 1. first_project:
      task list:
      1. Project create,
-     2. 2.App create,
+     2. App create,
      3. database create,
      4. show response,
      5. template connection and default database data show,
@@ -14,3 +14,8 @@
 
 ## 2. second_project:
      task list:
+     1. Project create,
+     2. App create,
+     3. mysql database connection,
+     4. CRUD operations,
+     5. django forms use kora e
