@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-# Backend_with_django### Backend Development with Django Framework
-=======
+
 ### Backend Development with Django Framework
->>>>>>> origin/main
 
 ## 1. first_project:
      task list:
