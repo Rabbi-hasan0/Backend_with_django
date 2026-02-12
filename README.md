@@ -17,6 +17,8 @@
      1. mysql database connection,
      2. CRUD operations using method,
      3. Use django forms.py
+     4. Raise message show when use CRUD,
+     5. Templates reusable, and no repeatable
 
 ## 2. third_project_CRUD:
      task list:
