@@ -143,7 +143,7 @@ STATICFILES_DIRS = [
 LOGIN_REDIRECT_URL = '/dashboard/'
 LOGOUT_REDIRECT_URL = '/dashboard/'
 
-# EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 
 
 '''
@@ -153,12 +153,12 @@ Eta realtime code pathabe:
     3. Device → Other (Django)  // Eikhan theke ekta password dibe oy password ta "EMAIL_HOST_PASSWORD" etai bosai dilei hoye jabe 
 '''
 
-EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
-EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_PORT = 587
-EMAIL_USE_TLS = True
-EMAIL_HOST_USER = 'imrabbihasan@gmail.com'
-EMAIL_HOST_PASSWORD = 'deii awxd unvr dqki'
+# EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
+# EMAIL_HOST = 'smtp.gmail.com'
+# EMAIL_PORT = 587
+# EMAIL_USE_TLS = True
+# EMAIL_HOST_USER = 'yours@gmail.com'
+# EMAIL_HOST_PASSWORD = '16_digit_apps_password'
 
 
 # Default primary key field type
